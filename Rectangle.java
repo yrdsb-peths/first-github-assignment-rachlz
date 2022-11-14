@@ -1,5 +1,6 @@
 public class Rectangle
 {
+  // class name should be capitalized!
   private int length; 
   private int width; 
   
