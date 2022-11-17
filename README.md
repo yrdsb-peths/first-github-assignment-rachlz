@@ -4,7 +4,7 @@ Do the following to Complete this assignment:
 
 1. Begin editing this file by clicking the 'pen' symbol above.
 
-2. Enter your First Name: Rachel Zhang
+2. Enter your First Name: Rachel
 
 3. Enter your favourite animal: Owl
 
